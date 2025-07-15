@@ -1,0 +1,18 @@
+
+    body{
+         background-image:url("1320272.jpg");
+         background-repeat: no-repeat;
+         background-size:cover;
+    }
+#para1 {
+  text-align: center;
+ background-color: bisque;
+ padding:0ch;
+  color: red;
+  border:blue;
+  border-style: dotted;
+}
+#p1 {
+  background-color:lightblue;
+  color: blue
+  }
